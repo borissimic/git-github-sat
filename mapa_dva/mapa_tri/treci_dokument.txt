@@ -1,1 +1,4 @@
-ovo je dokument za kreiranje novog brancha
+ispravak treceg teksta
+ovo je priprema za praznu liniju
+
+linija povise je prazna
