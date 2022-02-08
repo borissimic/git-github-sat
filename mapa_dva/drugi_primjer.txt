@@ -1,1 +1,1 @@
-ovo je drugi primjer dokumenta
+ovo je takodjer novi tekst nakon pusha na github

@@ -1,4 +1,2 @@
-ispravak treceg teksta
-ovo je priprema za praznu liniju
-
-linija povise je prazna
+ovo je novi teks u trecem dokumentu
+nakon  pusha na github
