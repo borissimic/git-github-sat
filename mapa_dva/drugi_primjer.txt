@@ -1,4 +1,4 @@
 ovo je takodjer novi tekst nakon pusha na github
 i ovo je zadnji redak koji sam napravio u cetvrtak
-ovo je sad redak za napravit problem 
-i ovaj isto
+i ovo je vjezba 
+ovo je isto promjena
