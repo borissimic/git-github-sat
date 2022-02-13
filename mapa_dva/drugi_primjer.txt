@@ -2,3 +2,5 @@ ovo je takodjer novi tekst nakon pusha na github
 i ovo je zadnji redak koji sam napravio u cetvrtak
 i ovo je vjezba 
 ovo je isto promjena
+ovo je pokusaj da se napravi conflict
+i ovo je red takodjer za isto
