@@ -1,0 +1,1 @@
+ovo je file s kojim zelim obratiti paznju na detalje kod pull requesta.
