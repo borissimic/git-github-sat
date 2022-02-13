@@ -1,0 +1,5 @@
+ovo je file napravljen za testiranje naredbe git stash
+git stash je komanda koju trebamo napisati da spremimo sve u stash
+prije spremanja u stash trebamo staviti ove promejne u stage area
+promjene vracamo sa git stash pop ili git stash apply
+da bi  nastavili radti u istom fileu trebamo ga unstage-at
